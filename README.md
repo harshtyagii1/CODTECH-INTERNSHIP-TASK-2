@@ -31,3 +31,4 @@ For help with CSS: CSS Tricks
 For more CSS effects: text-effects
 For Type Writing effects: Type-effects
 For Local Storage: Web Dev Simplified Blog
+![image aalt](https://raw.githubusercontent.com/harshtyagii1/CODTECH-INTERNSHIP-TASK-2/13b4a17c041c3e487036f9a35ade3f35daa81d33/Screenshot%202024-10-07%20221211.png)

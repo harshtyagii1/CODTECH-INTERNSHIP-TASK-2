@@ -1,4 +1,10 @@
-Foundation Project
+Name: Harsh Tyagi
+Company: CODTECH IT SOLUTIONS
+ID: CTO8DS6383
+Domain: Web Development
+Duration: August To September
+Mentor: Santosh Kumar
+
 To-Do-List
 A Simple To - Do Website!
 To Do List
